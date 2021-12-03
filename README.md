@@ -32,7 +32,7 @@ Here's the template:
 
 Must be one of the following:
 
-- **build**: Changes that affect the build system or external dependencies (example scopes: Gradle, Maven)
+- **build**: Changes that affect the build system or external dependencies (example scopes: gulp, npm)
 - **ci**: Changes to our CI configuration files and scripts (example scopes: Jenkins, Travis, Circle, SauceLabs)
 - **chore**: Changes to the build process or auxiliary tools and libraries such as documentation generation
 - **docs**: Documentation only changes
